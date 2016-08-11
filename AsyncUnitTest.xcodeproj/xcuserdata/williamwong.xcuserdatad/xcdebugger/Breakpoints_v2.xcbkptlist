@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AsyncUnitTestTests/ThumbnailManagerTests.swift"
+            timestampString = "492635391.961877"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testCompress()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsyncUnitTestTests.ThumbnailManagerTests.testCompress () -&gt; ()"
+                  moduleName = "AsyncUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamwong/Documents/iOS%20Workspace/AsyncUnitTest/AsyncUnitTestTests/ThumbnailManagerTests.swift"
+                  timestampString = "492635656.323694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "2768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AsyncUnitTestTests.ThumbnailManagerTests.(testCompress () -&gt; ()).(implicit closure #3)"
+                  moduleName = "AsyncUnitTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamwong/Documents/iOS%20Workspace/AsyncUnitTest/AsyncUnitTestTests/ThumbnailManagerTests.swift"
+                  timestampString = "492635656.323907"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
